@@ -46,12 +46,12 @@ button #goup {
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     cursor: pointer;
-    display: none;
     transition: 0.8s ease;
     -webkit-transition: 0.8s ease;
     -moz-transition: 0.8s ease;
     -ms-transition: 0.8s ease;
     -o-transition: 0.8s ease;
+    margin-top: 40px;
 }
 
 .container {

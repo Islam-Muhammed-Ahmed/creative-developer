@@ -34,7 +34,7 @@ button {
 
 button #goup {
     position: fixed;
-    top: 800px;
+    top: 100%;
     right: 5px;
     font-size: 2rem;
     z-index: 10;

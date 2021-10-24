@@ -315,7 +315,7 @@ toggleBtn.onclick = function(e) {
         and showing the only class u click on it
         not the all parents classes
         */
-    // e.stopPropagation();
+    e.stopPropagation();
     // Toggle Class "menu-active" On Button
     this.classList.toggle("menu-active");
     // Toggle Class "open" On Links
